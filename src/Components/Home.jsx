@@ -7,6 +7,7 @@ const Home = () => {
                   <li>About Us</li>
                   <li>Contact Us</li>
             </ul>
+            <p>This Is Home Page</p>
       </>);
 }
 
